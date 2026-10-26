@@ -34,7 +34,7 @@ Homepage = "https://github.com/jimmy927/svenska-dagar"
 Issues = "https://github.com/jimmy927/svenska-dagar/issues"
 
 [dependency-groups]
-dev = ["pytest", "holidays"]
+dev = ["pytest", "holidays", "mypy"]
 
 [tool.hatch.version]
 path = "src/svenska_dagar/__init__.py"
@@ -44,3 +44,8 @@ packages = ["src/svenska_dagar"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.mypy]
+strict = true
+python_version = "3.10"
+files = ["src"]

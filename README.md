@@ -1,3 +1,8 @@
+[![CI](https://github.com/jimmy927/svenska-dagar/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jimmy927/svenska-dagar/actions/workflows/ci.yml)
+![python 3.10 | 3.11 | 3.12 | 3.13 | 3.14](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+![Typed](https://img.shields.io/badge/typed-mypy%20--strict-blue)
+
 # svenska-dagar
 
 Svenska helgdagar, röda dagar, aftnar och klämdagar per datum: offline, utan beroenden.
@@ -47,6 +52,9 @@ info.klamdag                       # True: Kristi himmelsfärdsdag is the day be
 
 `is_workday(d)` is `not day_info(d).arbetsfri_dag`; `holiday_name(d)` is `day_info(d).helgdag`.
 
+All three take a `datetime.date`. Anything else raises `TypeError`, a `datetime.datetime`
+included (it would silently drop the time and time zone): pass `dt.date()`.
+
 The rules follow the API, history included: *Annandag pingst* is a day off before 2005 only,
 *Sveriges nationaldag* is a day off from 2005 (and *Svenska flaggans dag* before 1983), and when
 Kristi himmelsfärdsdag falls on 30 April or 1 May the name is combined, e.g.
@@ -65,15 +73,21 @@ independent reimplementation written from the rules (lag (1989:253) om allmänna
 de facto days off), not a port of that code. Golden test fixtures were recorded from the live
 service while it was up (`scripts/fetch_fixtures.py`).
 
-## Development
+## Tests
+
+- Golden fixtures: every field for every day of 18 years, recorded from the original API.
+- Specific-day tests (`tests/test_days.py`): hand-written rows for named holidays, eves,
+  klämdagar and the history rules, checked against a calendar and the law.
+- Format tests (`tests/test_format.py`): field types, frozen dataclass, ISO weeks, `__all__`,
+  input validation.
+- Cross-check of `arbetsfri_dag` against the [`holidays`](https://pypi.org/project/holidays/)
+  package for 1990-2100.
+- `mypy --strict src` is clean.
 
 ```
-uv run pytest
+uv run --with pytest --with holidays pytest
+uv run --with mypy mypy --strict src
 ```
-
-The tests compare every field against recorded API answers in `tests/fixtures/` and
-cross-check `arbetsfri_dag` with the [`holidays`](https://pypi.org/project/holidays/) package
-for 1990-2100.
 
 ## License
 

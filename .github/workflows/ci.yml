@@ -19,6 +19,14 @@ jobs:
       - uses: astral-sh/setup-uv@v6
       - run: uv run --isolated --python ${{ matrix.python }} --with pytest --with holidays python -m pytest -v
 
+  typecheck:
+    name: mypy --strict
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv run --isolated --python 3.12 --with mypy mypy --strict src
+
   build:
     runs-on: ubuntu-latest
     steps:

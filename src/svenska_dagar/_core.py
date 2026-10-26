@@ -8,7 +8,7 @@ wins, in the same order of precedence the Svenska Dagar API uses.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from functools import lru_cache
 from typing import NamedTuple
 
@@ -112,6 +112,19 @@ def _year_table(year: int) -> dict[date, _Entry]:
     return table
 
 
+def _check_date(day: date) -> None:
+    """Reject anything but a plain ``datetime.date``.
+
+    A ``datetime`` is a ``date`` subclass, but accepting it would silently drop its time
+    and time zone, so it is refused along with strings, ``None`` and the rest.
+    """
+    if isinstance(day, datetime) or not isinstance(day, date):
+        raise TypeError(
+            f"expected a datetime.date, got {type(day).__name__}"
+            " (pass a datetime.datetime as .date())"
+        )
+
+
 def _entry(day: date) -> _Entry | None:
     return _year_table(day.year).get(day)
 
@@ -134,7 +147,12 @@ def _free_neighbour(day: date, days: int) -> bool:
 
 
 def day_info(day: date) -> DayInfo:
-    """Everything the Svenska Dagar API v2.1 says about ``day``."""
+    """Everything the Svenska Dagar API v2.1 says about ``day``.
+
+    Raises ``TypeError`` unless ``day`` is a ``datetime.date``; a ``datetime.datetime`` is
+    refused too, so no time or time zone is dropped silently (use ``dt.date()``).
+    """
+    _check_date(day)
     entry = _entry(day)
     free = _is_free(day)
     tomorrow = _neighbour(day, 1)
@@ -153,11 +171,19 @@ def day_info(day: date) -> DayInfo:
 
 
 def is_workday(day: date) -> bool:
-    """True when ``day`` is not a weekend day or a day off."""
+    """True when ``day`` is not a weekend day or a day off.
+
+    Raises ``TypeError`` for anything but a ``datetime.date`` (``datetime.datetime`` included).
+    """
+    _check_date(day)
     return not _is_free(day)
 
 
 def holiday_name(day: date) -> str | None:
-    """The API's ``helgdag`` name for ``day``, or None (eves reported only as ``helgdagsafton`` give None)."""
+    """The API's ``helgdag`` name for ``day``, or None (eves reported only as ``helgdagsafton`` give None).
+
+    Raises ``TypeError`` for anything but a ``datetime.date`` (``datetime.datetime`` included).
+    """
+    _check_date(day)
     entry = _entry(day)
     return entry.name if entry and entry.is_helgdag else None
