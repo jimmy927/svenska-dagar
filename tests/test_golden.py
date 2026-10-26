@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import json
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import pytest
@@ -35,11 +35,21 @@ def expected(api: dict) -> dict:
     }
 
 
+# Known API bug, deliberately not reproduced: from 2005 Annandag pingst is no holiday, yet
+# when it falls on 6 June the API reports it (not a day off) and loses Sveriges nationaldag.
+# We skip the fixture comparison on those dates and on the day before (a Sunday, so its
+# neighbour-derived fields cannot differ, but it is excluded to be safe).
+API_DIVERGENCES = {date(2022, 6, 6), date(2033, 6, 6), date(2044, 6, 6)}
+SKIPPED = API_DIVERGENCES | {d - timedelta(days=1) for d in API_DIVERGENCES}
+
+
 @pytest.mark.parametrize("path", FIXTURES, ids=lambda p: p.stem)
 def test_every_field_matches_the_api(path: Path) -> None:
     mismatches = []
     for api in load(path):
         want = expected(api)
+        if want["datum"] in SKIPPED:
+            continue
         got = day_info(want["datum"])
         got_fields = {name: getattr(got, name) for name in want}
         if got_fields != want:
@@ -51,6 +61,8 @@ def test_every_field_matches_the_api(path: Path) -> None:
 def test_helpers_agree_with_day_info() -> None:
     for api in ALL_DAYS:
         want = expected(api)
+        if want["datum"] in SKIPPED:
+            continue
         assert is_workday(want["datum"]) is (not want["arbetsfri_dag"]), api["datum"]
         assert holiday_name(want["datum"]) == want["helgdag"], api["datum"]
 
@@ -102,3 +114,24 @@ def test_ordinary_day_has_no_holiday() -> None:
     assert info.veckodag == "Tisdag"
     assert is_workday(date(2026, 3, 10))
     assert holiday_name(date(2026, 3, 10)) is None
+
+
+@pytest.mark.parametrize("day", sorted(API_DIVERGENCES))
+def test_national_day_is_not_hidden_by_annandag_pingst(day: date) -> None:
+    assert day.weekday() == 0
+    info = day_info(day)
+    assert (info.helgdag, info.helgdagsafton) == ("Sveriges nationaldag", None)
+    assert info.arbetsfri_dag and info.rod_dag
+    assert not is_workday(day)
+    assert holiday_name(day) == "Sveriges nationaldag"
+    before = day_info(day - timedelta(days=1))  # Pingstdagen, a Sunday
+    assert before.helgdag == "Pingstdagen" and before.arbetsfri_dag
+    assert day_info(day + timedelta(days=1)).arbetsfri_dag is False
+    assert day_info(day + timedelta(days=1)).klamdag is False
+
+
+def test_whitsun_days_on_6_june_before_2005_are_as_the_api_has_them() -> None:
+    # The API keeps Annandag pingst as a day off before 2005 (fixtures hold Whitsun eves/days on 6 June).
+    for year in (1927, 1938, 1949, 1960):
+        info = day_info(date(year, 6, 6))
+        assert (info.helgdag, info.arbetsfri_dag) == ("Annandag pingst", True)

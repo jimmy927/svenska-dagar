@@ -52,9 +52,9 @@ The rules follow the API, history included: *Annandag pingst* is a day off befor
 Kristi himmelsfärdsdag falls on 30 April or 1 May the name is combined, e.g.
 `"Kristi himmelsfärdsdag, Första Maj"`.
 
-Known quirk, kept on purpose for compatibility: when *Annandag pingst* falls on 6 June (2022,
-2033, 2044, ...) the API reports that day as an ordinary working day, although the law makes
-the national day a public holiday. We return the API's answer.
+One deliberate difference: when *Annandag pingst* falls on 6 June from 2005 (2022, 2033, 2044,
+...) the original API reported an ordinary working day and lost the national day. Here it is
+*Sveriges nationaldag*, a day off, as the law says. Before 2005 the API's answers are kept.
 
 ## Credit
 

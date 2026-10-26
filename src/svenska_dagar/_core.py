@@ -81,7 +81,11 @@ def _year_table(year: int) -> dict[date, _Entry]:
     add(ascension, True, ascension_name, True, True)
     add(easter + timedelta(days=48), False, "Pingstafton", True, False)
     add(easter + timedelta(days=49), True, "Pingstdagen", True, True)
-    add(easter + timedelta(days=50), True, "Annandag pingst", whit_monday_off, whit_monday_off)
+    whit_monday = easter + timedelta(days=50)
+    # From 2005 Annandag pingst is no holiday, so it must not hide Sveriges nationaldag
+    # (the API let it; before 2005 it is a day off and wins, as in the API).
+    if whit_monday_off or (whit_monday.month, whit_monday.day) != (6, 6):
+        add(whit_monday, True, "Annandag pingst", whit_monday_off, whit_monday_off)
 
     # Alla helgons dag: the Saturday from 31 October to 6 November, and the Friday before it.
     all_saints = date(year, 10, 31)
