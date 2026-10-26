@@ -1,0 +1,90 @@
+[
+{
+"datum": "2285-04-29",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "2285-04-30",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "18",
+"helgdag": "Kristi himmelsfärdsdag, Valborgsmässoafton"
+},
+{
+"datum": "2285-05-01",
+"veckodag": "Fredag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "18",
+"helgdag": "Första Maj"
+},
+{
+"datum": "1981-06-06",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdagsafton": "Pingstafton"
+},
+{
+"datum": "1987-06-06",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdagsafton": "Pingstafton"
+},
+{
+"datum": "1992-06-06",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdagsafton": "Pingstafton"
+},
+{
+"datum": "2033-06-06",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdag": "Annandag pingst"
+},
+{
+"datum": "2044-06-06",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdag": "Annandag pingst"
+},
+{
+"datum": "2049-06-06",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "22",
+"helgdag": "Pingstdagen"
+},
+{
+"datum": "2060-06-06",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "23",
+"helgdag": "Pingstdagen"
+},
+{
+"datum": "2071-06-06",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdagsafton": "Pingstafton"
+}
+]

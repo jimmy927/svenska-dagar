@@ -1,0 +1,46 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "svenska-dagar"
+dynamic = ["version"]
+description = "Swedish holidays, days off, eves and squeeze days (klämdagar) per date. Offline, no dependencies."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Jimmy Engelbrecht" }]
+keywords = ["sweden", "swedish", "holidays", "helgdagar", "calendar", "workdays"]
+dependencies = []
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Natural Language :: Swedish",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/jimmy927/svenska-dagar"
+Issues = "https://github.com/jimmy927/svenska-dagar/issues"
+
+[dependency-groups]
+dev = ["pytest", "holidays"]
+
+[tool.hatch.version]
+path = "src/svenska_dagar/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/svenska_dagar"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

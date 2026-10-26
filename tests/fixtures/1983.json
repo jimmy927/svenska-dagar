@@ -1,0 +1,2589 @@
+[
+{
+"datum": "1983-01-01",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "52",
+"helgdag": "Nyårsdagen"
+},
+{
+"datum": "1983-01-02",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "52"
+},
+{
+"datum": "1983-01-03",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "01"
+},
+{
+"datum": "1983-01-04",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "01"
+},
+{
+"datum": "1983-01-05",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "01",
+"helgdagsafton": "Trettondagsafton",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-01-06",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "01",
+"helgdag": "Trettondedag jul"
+},
+{
+"datum": "1983-01-07",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "01",
+"klämdag": "Ja"
+},
+{
+"datum": "1983-01-08",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "01"
+},
+{
+"datum": "1983-01-09",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "01"
+},
+{
+"datum": "1983-01-10",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-11",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-12",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-13",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-14",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-15",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "02"
+},
+{
+"datum": "1983-01-16",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "02"
+},
+{
+"datum": "1983-01-17",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-18",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-19",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-20",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-21",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-22",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "03"
+},
+{
+"datum": "1983-01-23",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "03"
+},
+{
+"datum": "1983-01-24",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-25",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-26",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-27",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-28",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-29",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "04"
+},
+{
+"datum": "1983-01-30",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "04"
+},
+{
+"datum": "1983-01-31",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-01",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-02",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-03",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-04",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-05",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "05"
+},
+{
+"datum": "1983-02-06",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "05"
+},
+{
+"datum": "1983-02-07",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-08",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-09",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-10",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-11",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-12",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "06"
+},
+{
+"datum": "1983-02-13",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "06"
+},
+{
+"datum": "1983-02-14",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-15",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-16",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-17",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-18",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-19",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "07"
+},
+{
+"datum": "1983-02-20",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "07"
+},
+{
+"datum": "1983-02-21",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-22",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-23",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-24",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-25",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-26",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "08"
+},
+{
+"datum": "1983-02-27",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "08"
+},
+{
+"datum": "1983-02-28",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-01",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-02",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-03",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-04",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-05",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "09"
+},
+{
+"datum": "1983-03-06",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "09"
+},
+{
+"datum": "1983-03-07",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-08",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-09",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-10",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-11",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-12",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "10"
+},
+{
+"datum": "1983-03-13",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "10"
+},
+{
+"datum": "1983-03-14",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-15",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-16",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-17",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-18",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-19",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "11"
+},
+{
+"datum": "1983-03-20",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "11"
+},
+{
+"datum": "1983-03-21",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-22",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-23",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-24",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-25",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-26",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "12"
+},
+{
+"datum": "1983-03-27",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "12"
+},
+{
+"datum": "1983-03-28",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "13"
+},
+{
+"datum": "1983-03-29",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "13"
+},
+{
+"datum": "1983-03-30",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "13"
+},
+{
+"datum": "1983-03-31",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "13",
+"helgdagsafton": "Skärtorsdagen",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-04-01",
+"veckodag": "Fredag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "13",
+"helgdag": "Långfredagen"
+},
+{
+"datum": "1983-04-02",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "13",
+"helgdag": "Påskafton"
+},
+{
+"datum": "1983-04-03",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "13",
+"helgdag": "Påskdagen"
+},
+{
+"datum": "1983-04-04",
+"veckodag": "Måndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "14",
+"helgdag": "Annandag påsk"
+},
+{
+"datum": "1983-04-05",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "14"
+},
+{
+"datum": "1983-04-06",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "14"
+},
+{
+"datum": "1983-04-07",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "14"
+},
+{
+"datum": "1983-04-08",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "14"
+},
+{
+"datum": "1983-04-09",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "14"
+},
+{
+"datum": "1983-04-10",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "14"
+},
+{
+"datum": "1983-04-11",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-12",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-13",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-14",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-15",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-16",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "15"
+},
+{
+"datum": "1983-04-17",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "15"
+},
+{
+"datum": "1983-04-18",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-19",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-20",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-21",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-22",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-23",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "16"
+},
+{
+"datum": "1983-04-24",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "16"
+},
+{
+"datum": "1983-04-25",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "17"
+},
+{
+"datum": "1983-04-26",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "17"
+},
+{
+"datum": "1983-04-27",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "17"
+},
+{
+"datum": "1983-04-28",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "17"
+},
+{
+"datum": "1983-04-29",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "17"
+},
+{
+"datum": "1983-04-30",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "17",
+"helgdagsafton": "Valborgsmässoafton"
+},
+{
+"datum": "1983-05-01",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "17",
+"helgdag": "Första Maj"
+},
+{
+"datum": "1983-05-02",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-03",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-04",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-05",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-06",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-07",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "18"
+},
+{
+"datum": "1983-05-08",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "18"
+},
+{
+"datum": "1983-05-09",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "19"
+},
+{
+"datum": "1983-05-10",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "19"
+},
+{
+"datum": "1983-05-11",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "19",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-05-12",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "19",
+"helgdag": "Kristi himmelsfärdsdag"
+},
+{
+"datum": "1983-05-13",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "19",
+"klämdag": "Ja"
+},
+{
+"datum": "1983-05-14",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "19"
+},
+{
+"datum": "1983-05-15",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "19"
+},
+{
+"datum": "1983-05-16",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "20"
+},
+{
+"datum": "1983-05-17",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "20"
+},
+{
+"datum": "1983-05-18",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "20"
+},
+{
+"datum": "1983-05-19",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "20"
+},
+{
+"datum": "1983-05-20",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "20"
+},
+{
+"datum": "1983-05-21",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "20",
+"helgdagsafton": "Pingstafton"
+},
+{
+"datum": "1983-05-22",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "20",
+"helgdag": "Pingstdagen"
+},
+{
+"datum": "1983-05-23",
+"veckodag": "Måndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "21",
+"helgdag": "Annandag pingst"
+},
+{
+"datum": "1983-05-24",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "21"
+},
+{
+"datum": "1983-05-25",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "21"
+},
+{
+"datum": "1983-05-26",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "21"
+},
+{
+"datum": "1983-05-27",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "21"
+},
+{
+"datum": "1983-05-28",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "21"
+},
+{
+"datum": "1983-05-29",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "21"
+},
+{
+"datum": "1983-05-30",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-05-31",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-06-01",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-06-02",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-06-03",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-06-04",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "22"
+},
+{
+"datum": "1983-06-05",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "22"
+},
+{
+"datum": "1983-06-06",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23",
+"helgdag": "Sveriges nationaldag"
+},
+{
+"datum": "1983-06-07",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23"
+},
+{
+"datum": "1983-06-08",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23"
+},
+{
+"datum": "1983-06-09",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23"
+},
+{
+"datum": "1983-06-10",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "23"
+},
+{
+"datum": "1983-06-11",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "23"
+},
+{
+"datum": "1983-06-12",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "23"
+},
+{
+"datum": "1983-06-13",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-14",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-15",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-16",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-17",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-18",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "24"
+},
+{
+"datum": "1983-06-19",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "24"
+},
+{
+"datum": "1983-06-20",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "25"
+},
+{
+"datum": "1983-06-21",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "25"
+},
+{
+"datum": "1983-06-22",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "25"
+},
+{
+"datum": "1983-06-23",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "25",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-06-24",
+"veckodag": "Fredag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "25",
+"helgdag": "Midsommarafton"
+},
+{
+"datum": "1983-06-25",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "25",
+"helgdag": "Midsommardagen"
+},
+{
+"datum": "1983-06-26",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "25"
+},
+{
+"datum": "1983-06-27",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-06-28",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-06-29",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-06-30",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-07-01",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-07-02",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "26"
+},
+{
+"datum": "1983-07-03",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "26"
+},
+{
+"datum": "1983-07-04",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-05",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-06",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-07",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-08",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-09",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "27"
+},
+{
+"datum": "1983-07-10",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "27"
+},
+{
+"datum": "1983-07-11",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-12",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-13",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-14",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-15",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-16",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "28"
+},
+{
+"datum": "1983-07-17",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "28"
+},
+{
+"datum": "1983-07-18",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-19",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-20",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-21",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-22",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-23",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "29"
+},
+{
+"datum": "1983-07-24",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "29"
+},
+{
+"datum": "1983-07-25",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-26",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-27",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-28",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-29",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-30",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "30"
+},
+{
+"datum": "1983-07-31",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "30"
+},
+{
+"datum": "1983-08-01",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-02",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-03",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-04",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-05",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-06",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "31"
+},
+{
+"datum": "1983-08-07",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "31"
+},
+{
+"datum": "1983-08-08",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-09",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-10",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-11",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-12",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-13",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "32"
+},
+{
+"datum": "1983-08-14",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "32"
+},
+{
+"datum": "1983-08-15",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-16",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-17",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-18",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-19",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-20",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "33"
+},
+{
+"datum": "1983-08-21",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "33"
+},
+{
+"datum": "1983-08-22",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-23",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-24",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-25",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-26",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-27",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "34"
+},
+{
+"datum": "1983-08-28",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "34"
+},
+{
+"datum": "1983-08-29",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-08-30",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-08-31",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-09-01",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-09-02",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-09-03",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "35"
+},
+{
+"datum": "1983-09-04",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "35"
+},
+{
+"datum": "1983-09-05",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-06",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-07",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-08",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-09",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-10",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "36"
+},
+{
+"datum": "1983-09-11",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "36"
+},
+{
+"datum": "1983-09-12",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-13",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-14",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-15",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-16",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-17",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "37"
+},
+{
+"datum": "1983-09-18",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "37"
+},
+{
+"datum": "1983-09-19",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-20",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-21",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-22",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-23",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-24",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "38"
+},
+{
+"datum": "1983-09-25",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "38"
+},
+{
+"datum": "1983-09-26",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-09-27",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-09-28",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-09-29",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-09-30",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-10-01",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "39"
+},
+{
+"datum": "1983-10-02",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "39"
+},
+{
+"datum": "1983-10-03",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-04",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-05",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-06",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-07",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-08",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "40"
+},
+{
+"datum": "1983-10-09",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "40"
+},
+{
+"datum": "1983-10-10",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-11",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-12",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-13",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-14",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-15",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "41"
+},
+{
+"datum": "1983-10-16",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "41"
+},
+{
+"datum": "1983-10-17",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-18",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-19",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-20",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-21",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-22",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "42"
+},
+{
+"datum": "1983-10-23",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "42"
+},
+{
+"datum": "1983-10-24",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-25",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-26",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-27",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-28",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-29",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "43"
+},
+{
+"datum": "1983-10-30",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "43"
+},
+{
+"datum": "1983-10-31",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "44"
+},
+{
+"datum": "1983-11-01",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "44"
+},
+{
+"datum": "1983-11-02",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "44"
+},
+{
+"datum": "1983-11-03",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "44"
+},
+{
+"datum": "1983-11-04",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "44",
+"helgdagsafton": "Allhelgonaafton",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-11-05",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "44",
+"helgdag": "Alla helgons dag"
+},
+{
+"datum": "1983-11-06",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "44"
+},
+{
+"datum": "1983-11-07",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-08",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-09",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-10",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-11",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-12",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "45"
+},
+{
+"datum": "1983-11-13",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "45"
+},
+{
+"datum": "1983-11-14",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-15",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-16",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-17",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-18",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-19",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "46"
+},
+{
+"datum": "1983-11-20",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "46"
+},
+{
+"datum": "1983-11-21",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-22",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-23",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-24",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-25",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-26",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "47"
+},
+{
+"datum": "1983-11-27",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "47"
+},
+{
+"datum": "1983-11-28",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-11-29",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-11-30",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-12-01",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-12-02",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-12-03",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "48"
+},
+{
+"datum": "1983-12-04",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "48"
+},
+{
+"datum": "1983-12-05",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-06",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-07",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-08",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-09",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-10",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "49"
+},
+{
+"datum": "1983-12-11",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "49"
+},
+{
+"datum": "1983-12-12",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-13",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-14",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-15",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-16",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-17",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "50"
+},
+{
+"datum": "1983-12-18",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "50"
+},
+{
+"datum": "1983-12-19",
+"veckodag": "Måndag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "51"
+},
+{
+"datum": "1983-12-20",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "51"
+},
+{
+"datum": "1983-12-21",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "51"
+},
+{
+"datum": "1983-12-22",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "51"
+},
+{
+"datum": "1983-12-23",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "51",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-12-24",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "51",
+"helgdag": "Julafton"
+},
+{
+"datum": "1983-12-25",
+"veckodag": "Söndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "51",
+"helgdag": "Juldagen"
+},
+{
+"datum": "1983-12-26",
+"veckodag": "Måndag",
+"arbetsfri dag": "Ja",
+"röd dag": "Ja",
+"vecka": "52",
+"helgdag": "Annandag jul"
+},
+{
+"datum": "1983-12-27",
+"veckodag": "Tisdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "52"
+},
+{
+"datum": "1983-12-28",
+"veckodag": "Onsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "52"
+},
+{
+"datum": "1983-12-29",
+"veckodag": "Torsdag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "52"
+},
+{
+"datum": "1983-12-30",
+"veckodag": "Fredag",
+"arbetsfri dag": "Nej",
+"röd dag": "Nej",
+"vecka": "52",
+"dag före arbetsfri helgdag": "Ja"
+},
+{
+"datum": "1983-12-31",
+"veckodag": "Lördag",
+"arbetsfri dag": "Ja",
+"röd dag": "Nej",
+"vecka": "52",
+"helgdag": "Nyårsafton"
+}
+]
